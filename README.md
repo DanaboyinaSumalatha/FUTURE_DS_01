@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Superstore Sales Dataset (9,995 Orders)
 * Total Revenue: ₹22,94,505
@@ -14,7 +14,7 @@
 
 ---
 
-## 📈 Analysis Performed
+##  Analysis Performed
 
 ### Top Products Analysis
 
@@ -34,7 +34,7 @@ Analysis of sales patterns over time including monthly and yearly trends.
 
 ---
 
-## 📌 Dashboard Features
+##  Dashboard Features
 
 * KPI Cards (Total Sales, Total Profit, Total Orders)
 * Top Products by Sales
@@ -44,7 +44,7 @@ Analysis of sales patterns over time including monthly and yearly trends.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. Technology category generated the highest revenue.
 2. West region was the best performing region.
@@ -53,7 +53,7 @@ Analysis of sales patterns over time including monthly and yearly trends.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Power BI
@@ -61,7 +61,7 @@ Analysis of sales patterns over time including monthly and yearly trends.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project helped me understand:
 
